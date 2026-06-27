@@ -1,7 +1,5 @@
 # ANDERSON Soamiavaka Vanille
 
-> Stagiaire en développement informatique 
-
 ---
 
 ## À propos de moi
