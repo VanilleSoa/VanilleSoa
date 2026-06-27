@@ -1,7 +1,4 @@
 # ANDERSON Soamiavaka Vanille
-
----
-
 ## À propos de moi
 
 - Étudiante en L3 Informatique à IT University
