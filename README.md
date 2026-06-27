@@ -1,8 +1,7 @@
 # ANDERSON Soamiavaka Vanille
 ## À propos de moi
 
-- Étudiante en L3 Informatique à IT University
-- Intéressée par le développement web full-stack
+- Je suis intéressée par le développement web full-stack
 - J’aime transformer une idée en application claire, fonctionnelle et utile
 
 ---
